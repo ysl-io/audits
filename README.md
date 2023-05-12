@@ -11,4 +11,4 @@ Collection of Audits for the YSL.IO Smart Contracts:
 - [Solidity Finance](https://solidity.finance/audits/YSLProtocolV2)
 
 **V2**
-- [PeckShield](https://github.com/ysl-io/audits/files/11459479/PeckShield-Audit-Report-YSLv2-v1.0.pdf)
+- [PeckShield](https://github.com/ysl-io/audits/blob/main/PeckShield-Audit-Report-V2.pdf)
